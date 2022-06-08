@@ -1,0 +1,26 @@
+h1{
+font-size: 25px;
+text-align: center;
+text-decoration: underline gray;
+color: #939997
+}
+
+
+h2{
+font-size: 20px; 
+text-align: center;
+text-decoration: underline gray; 
+color : #939997; 
+}
+
+
+p{
+font-size: 15px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+
+body {
+background-color: #DDF4ED;
+}
